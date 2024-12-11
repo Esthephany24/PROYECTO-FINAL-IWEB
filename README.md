@@ -41,12 +41,14 @@ python manage.py runserver
 npm install
 
 ### Ejecuta el servidor de desarrollo
+
 npm start
 
-#Imagenes
+# Imagenes
 
 
-#Estructura del Proyecto
+# Estructura del Proyecto
+
  project/
 ├── backend/
 │   ├── manage.py
