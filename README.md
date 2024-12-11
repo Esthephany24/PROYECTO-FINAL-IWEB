@@ -34,7 +34,8 @@ Base de datos: sisacad
 python manage.py migrate
 python manage.py runserver
 
-![Backend](./Captura de pantalla 2024-12-11 145854.png)
+### Captura 1
+![Captura de Pantalla 1](./Captura%20de%20pantalla%202024-12-11%20145854.png)
 
 
 ## INTERFAZ
