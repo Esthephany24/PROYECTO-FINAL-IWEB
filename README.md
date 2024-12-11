@@ -34,6 +34,9 @@ Base de datos: sisacad
 python manage.py migrate
 python manage.py runserver
 
+![Backend](./Captura de pantalla 2024-12-11 145854.png)
+
+
 ## INTERFAZ
 
 ### Instalar las dependencias:
