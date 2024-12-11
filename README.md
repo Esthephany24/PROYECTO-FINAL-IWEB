@@ -49,7 +49,8 @@ npm install
 npm start
 
 # Imagenes
-
+### Captura 2
+![Captura de Pantalla 2](./Captura%20de%20pantalla%202024-12-11%20145908.png)
 
 # Estructura del Proyecto
 
